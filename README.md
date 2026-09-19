@@ -96,19 +96,6 @@ Users can interact with the dashboard using filters/slicers such as:
 
 ---
 
-## 📊 Dashboard Preview
-
-
-```text
-[Super Store Sales Dashboard](Super Store Dashboard.png)
-```
-
-```text
-[Super Store Sales Dashboard](Super Store Sales - 15 Days Forecast.png)
-```
-
----
-
 ## 🔍 Key Insights
 
 Some of the important business insights that can be derived from the dashboard include:
