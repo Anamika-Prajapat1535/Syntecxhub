@@ -99,6 +99,7 @@ Users can interact with the dashboard using filters/slicers such as:
 ## 📊 Dashboard Preview
 
 ![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20Dashboard.png)
+![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20-%2015%20Days%20Forecast.png)
 
 ---
 
