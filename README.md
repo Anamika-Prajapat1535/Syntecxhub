@@ -100,11 +100,11 @@ Users can interact with the dashboard using filters/slicers such as:
 
 
 ```text
-![Super Store Sales Dashboard](Super Store Dashboard.png)
+[Super Store Sales Dashboard](Super Store Dashboard.png)
 ```
 
 ```text
-![Super Store Sales Dashboard](Super Store Sales - 15 Days Forecast.png)
+[Super Store Sales Dashboard](Super Store Sales - 15 Days Forecast.png)
 ```
 
 ---
@@ -130,10 +130,11 @@ Super-Store-Sales-Dashboard/
 │
 ├── Super Store Sales Dashboard.pbix
 ├── Dataset/
-│   └── superstore_sales.csv
+│   └── Sales_data.csv
 │
 ├── Images/
-│   └── dashboard_screenshot.png
+│   └── Super Store Sales Dashboard.png
+|   └── Super Store Sales - 15 Days Forecast.png
 │
 └── README.md
 ```
