@@ -96,6 +96,12 @@ Users can interact with the dashboard using filters/slicers such as:
 
 ---
 
+## 📊 Dashboard Preview
+
+
+
+---
+
 ## 🔍 Key Insights
 
 Some of the important business insights that can be derived from the dashboard include:
@@ -160,8 +166,15 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 Interested in **Data Analytics, Machine Learning & Business Intelligence**
 
+## 📊 Dashboard Preview
+
+> Add screenshots of your Power BI dashboard here.
+
+Example:
+
+```text
+![Super Store Sales Dashboard](dashboard_screenshot.png)
+```
+
 ---
 
-## ⭐ If you find this project useful
-
-Feel free to ⭐ star this repository and explore the dashboard!
